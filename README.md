@@ -49,21 +49,63 @@
 - Duše je nesmrtelný, po smrti přechází do jiných tvorů
 - Pythagorova věta
 ## Empedokles
+- Základem života jsou 4 živly
+- Hnací silou všeho je láska a nenávist
 ## Demokritos
+- Zakladatel atomismu
+- "člověk je vesmír v malém"
 
 # Eleaté
+## Xenofanes
+- Kritika řecké mytologie
+## Parmenides
+- Zakladatel filosofické školy v Itálii
+- Otec racionalismu
 ## Zenon a Elejes
+- Pohyb neexistuje, letící šíp, běh s želvou
 ## Herakleitos z Efezu - "temný
+- 540 - 480 př.n.l.
+- temný -> těžce pochopitelný
+- Symbolem vznkiku je oheň
 
 # Sofisté
+- Učitelé moudrosti
+- Poprvé obrátili pozornost od přírody k člověku, předmětem záujmu je myšlení
 ## Protagoras z Abdény
+- Člověk je mírou všech věcí
 ## Sokrates
+- Jeho filozofivání spočívá ve vedení dialogů s lidmi, vede k poznání pravdy
+- Největší filozof anitky
+- **Dílo: Obrana Sokratova**
 ## Platón
+- založil academii
+- Nauka o ideích -> jsou večná, neměnné, reálné, nepodléhají zániku
+![image](https://user-images.githubusercontent.com/90755554/207174131-a89c1cb8-06bf-44de-8901-38afd517e067.png)
+- Společnost funguje, jelikož každý zná své místo
+- Ústava je aristokratická a zároveň demokratická
+- **Díla: Sokratova obrana, Ústava**
 ## Aristoteles ze Stageiry
+- Nejslavnější Platónův žák
+- zakladatel logiky
+- **Díla:** Organon, O duši
 
 # Epikurejci
 ## Epikuros ze Saunu
+- "žij skrytě"
+- zastáncem hédonismu - dobro jako nejvyšší slast
+- Cílem člověka je vyhýbat se strastem a nemocem, usilovat o radost, štěstí
+- Vše řídí rozum
 
 # Stoici
+- Život v souladu s příroou = dobrý život
+- Člověk je bytost rozumná
+- Zlo je život nerozumný
 ## Seneca
+- Řečník, dramatik, básník
+- Vychovatel Nera
+- **Díla:** 12 knih rozhovorů, O prozřetelnosti
 ## Cicero
+- filozof, politik
+- Logos (rozum) = rácio, údajným autorem slova
+- Popularizátor řecké filozofie
+- **Díla: ** O zákonech, O povinnostech
