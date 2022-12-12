@@ -1,4 +1,4 @@
-# ZSV
+# ZSV - Filosofie
 
 ## Mýtus a filosofie
 
@@ -13,23 +13,23 @@
 ## Anaximandra
 
 # Pythagorovci
-- Pythagoras ze Samu
-- Empedokles
-- Demokritos
+- **Pythagoras ze Samu**
+- **Empedokles**
+- **Demokritos**
 
 # Eleaté
-- Zenon a Elejes
-- Herakleitos z Efezu - "temný"
+- **Zenon a Elejes**
+- **Herakleitos z Efezu - "temný"**
 
 # Sofisté
-- Protagoras z Abdény
-- Sokrates
-- Platón
-- Aristoteles ze Stageiry
+- **Protagoras z Abdény**
+- **Sokrates**
+- **Platón**
+- **Aristoteles ze Stageiry**
 
 # Epikurejci
-- Epikuros ze Saunu
+- **Epikuros ze Saunu**
 
 # Stoici
-- Seneca
-- Cicero
+- **Seneca**
+- **Cicero**
