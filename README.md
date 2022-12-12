@@ -21,6 +21,10 @@
 - Antropologie: Odkud jsme
 
 # Antická filosofie
+- 7. př.n.l. - 6. n.l.
+- Malá Asie -> Milétos -> Hlavní centrum, bohatá osada, přístav
+- Snaha zkoumat přírodu a svět rozumově - byt mýtů a legend
+- Snaha nalézt nějakou pralátku vzniku
 
 ## Tháles z Milétu
 
