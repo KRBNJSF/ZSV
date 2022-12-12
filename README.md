@@ -108,4 +108,4 @@
 - filozof, politik
 - Logos (rozum) = rácio, údajným autorem slova
 - Popularizátor řecké filozofie
-- **Díla: ** O zákonech, O povinnostech
+- **Díla:** O zákonech, O povinnostech
