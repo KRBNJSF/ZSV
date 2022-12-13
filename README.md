@@ -87,10 +87,13 @@
 ## Aristoteles ze Stageiry
 - Nejslavnější Platónův žák
 - zakladatel logiky
+- student academie (Platónova škola) 
+- Filozofie se dělí na 2 části (praktickou, teoretickou) 
 - **Díla:** Organon, O duši
 
 # Epikurejci
 ## Epikuros ze Saunu
+- 4-3. stol pr n. l. 
 - "žij skrytě"
 - zastáncem hédonismu - dobro jako nejvyšší slast
 - Cílem člověka je vyhýbat se strastem a nemocem, usilovat o radost, štěstí
@@ -98,14 +101,17 @@
 
 # Stoici
 - Život v souladu s příroou = dobrý život
-- Člověk je bytost rozumná
+- Člověk je bytost rozumná, jehož cílem je dobrý život vyhledávat
 - Zlo je život nerozumný
+- Marcus Aurelius
 ## Seneca
+- 1. stol. n. l. 
 - Řečník, dramatik, básník
 - Vychovatel Nera
 - **Díla:** 12 knih rozhovorů, O prozřetelnosti
 ## Cicero
-- filozof, politik
+- filozof, politik, řečník
 - Logos (rozum) = rácio, údajným autorem slova
 - Popularizátor řecké filozofie
-- **Díla:** O zákonech, O povinnostech
+- Zastáncem Římské republiky
+- **Díla:** O zákonech, O povinnostech, O osudu
